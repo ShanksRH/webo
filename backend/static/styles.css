@@ -1,0 +1,155 @@
+body {
+    background-color: #888888;
+}
+
+footer {
+
+}
+
+a {
+    color: gold;
+}
+
+p {
+    color: greenyellow;
+}
+
+.btn.btn-primary {
+    color: gold;
+}
+
+.btn-navbar {
+    margin: 3px;
+}
+
+.input-cab {
+    margin: 10px 10px 0px 0px;
+}
+
+.footer-we {
+    border-left: 1px solid #555555;
+    padding-left: 5px;
+}
+
+.footer-container {
+    width: 85%;
+    margin: 0 auto;
+}
+
+.img-slide {
+    height: 400px;
+}
+
+.main-container {
+    width: 100%;
+    background-color: #555555;
+}
+
+.rgb-card-wide {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 10px;
+    border-bottom: 1px solid gold;
+    border-top: 1px solid gold;
+}
+
+.rgb-card {
+    display: flex;
+    justify-content: space-around;
+    min-width: 200px;
+    max-width: 400px;
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid gold;
+    border-radius: 5px;
+}
+
+.game-info {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.games-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.game-zone {
+    min-width: 500px;
+    padding: 10px;
+    border: 1px solid gold;
+    border-radius: 5px;
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px auto;
+}
+
+.comments-container {
+    width: 100%;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid gold;
+    border-radius: 5px;
+}
+
+.game {
+    text-align: center;
+}
+
+.likes {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.game-statistics {
+
+}
+
+.game-instruction {
+    margin: 20px;
+}
+
+.likes-counter {
+    margin: auto 0;
+}
+
+.user-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.comment {
+    display: flex;
+    border: 1px solid goldenrod;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.comment-in {
+    display: flex;
+    flex-direction: column;
+    margin: 0 5px;
+    padding: 0 5px;
+}
+
+.cab-container {
+    width: 400px;
+    margin: 10px auto 0 auto;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.bmd-help, .text-muted {
+    color: greenyellow;
+}
